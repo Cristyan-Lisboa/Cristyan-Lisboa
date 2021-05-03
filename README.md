@@ -10,5 +10,5 @@ Hi! My name is Cristyan Lisbôa and I'm currently working on my masther's thesis
  * 2024: Start my PhD.
  * 2026: Publish my second book: Digital Control Systems - A practical approach.
  * 2027: Finish my PhD. Get a job and dedicate the rest of my days as a researcher on the Control Theory.
- * 2028: Learn French.
- * 2030: Learn Italian.
+ * 2028: Learn Italian.
+ * 2030: Learn French.
